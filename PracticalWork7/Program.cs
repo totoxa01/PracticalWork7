@@ -6,7 +6,9 @@ namespace PracticalWork7
     {
         static void Main(string[] args)
         {
-            FolderMSBuild.ClassMSBuild.WorkMethod();
+            //FolderMSBuild.ClassMSBuild.WorkMethod();
+            FolderCrossZero.ClassCrossZero.WorkMethod();
+           
             Console.ReadKey();
         }
     }
